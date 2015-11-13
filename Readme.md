@@ -9,8 +9,7 @@ The prototype version has two parts:
 
 ## The Intellij Plugin
 
-You can download the plugin from the repository [intellij-plugin.zip](https://github.com/ideaflow/tools/intellij-plugin.zip)
-To install the Intellij Plugin, open up "Preferences > Plugins" pane and click "Install from Disk...", browse to the downloaded zip file and install. 
+You can install the plugin by adding "http://ideaflow.org/updatePlugins.xml" as a [custom plugin repository](https://www.jetbrains.com/idea/help/custom-plugin-repositories-dialog.html) and then selecting ideaflow-plugin.
 
 The Idea Flow Mapping buttons show up on the main tool bar, so if you have your main bar hidden, you'll have to make the bar visible to see the buttons.
 
