@@ -5,7 +5,7 @@ This is the prototype version of the Idea Flow Mapping software.  It's currently
 The prototype version has two parts:
 
 * The IFM Intellij Plugin
-* The IFM Web Server Virtual Box (vagrant) 
+* The IFM Visualizer (vagrant) 
 
 ## The Intellij Plugin
 
@@ -46,7 +46,7 @@ Bands can also be linked together by "flipping" to a rework band when a conflict
 
 * **Unexpected Dependencies** - The developer is figuring out a strategy and runs into an unexpected dependencies that messes up their plans before they even start writing code. Figure out the strategy (learning), then when the unexpected dependency is discovered, start a nested strategy conflict.  After chasing down the dependency and resolving the concern, end the nested conflict and resume learning.
 
-## IFM Web Server Virtual Box
+## IFM Visualizer
 
 To open Idea Flow Maps in the visualizer (again, prototype version), you'll need to install the VirtualBox VM, which is super easy with vagrant.  The VM Webserver runs on port 8989 in an attempt to not clash with other ports you might be using for your application.  Once the server is running, you can open Idea Flow Maps from within the plugin, by choosing "Open in Visualizer" by right clicking the IFM file, or selecting the option in the active task drop down menu.
 
