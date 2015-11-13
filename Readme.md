@@ -1,6 +1,6 @@
 # Idea Flow Mapping Tools
 
-This is the prototype version of the Idea Flow Mapping software.  It's currently file based with heavy logic in the plugin, and will be moved to a REST service hosted at demo.ideaflow.org that will allow you to use basic Idea Flow analytics tools once you create a free account.
+This is the prototype version of the Idea Flow Mapping software.  It's currently file based with heavy logic in the plugin, and will be moved to a thinned down version that hits a REST service hosted at demo.ideaflow.org, and you'll be able to use basic Idea Flow analytics tools with your team once you create a free account.  ETA for the rewrite is Jan 2016.
 
 The prototype version has two parts:
 
@@ -9,7 +9,7 @@ The prototype version has two parts:
 
 ## The Intellij Plugin
 
-You can install the plugin by adding "http://ideaflow.org/updatePlugins.xml" as a [custom plugin repository](https://www.jetbrains.com/idea/help/custom-plugin-repositories-dialog.html) and then selecting ideaflow-plugin.
+You can install the plugin by adding "http://ideaflow.org/updatePlugins.xml" as a [custom plugin repository](https://www.jetbrains.com/idea/help/custom-plugin-repositories-dialog.html) and then installing "ideaflow-plugin".
 
 The Idea Flow Mapping buttons show up on the main tool bar, so if you have your main bar hidden, you'll have to make the bar visible to see the buttons.
 
