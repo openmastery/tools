@@ -27,7 +27,7 @@ To start recording an Idea Flow Map, right click on any directory and select: Ne
 
 **Learning (blue bulb)** - Toggle learning on to start the learning band, toggle off to end the learning band.  When you start learning, you'll be prompted for the question your trying to answer.  Try to translate the *focus* of your learning into a concise question.  End the learning band once you have an answer to your question.  In general, record learning bands at the start of a task and the start of a subtask.
 
-**Rework (yellow bulb)** - Toggle rework on to start the rework band, toggle off to end the rework band.  When you start learning, you'll be prompted about what you're reworking.  Any code changes that are non-functional in nature (refactoring), repair or redesign when there is nothing broken -- consider rework.
+**Rework (yellow bulb)** - Toggle rework on to start the rework band, toggle off to end the rework band.  When you start rework, you'll be prompted about what you're reworking.  Any code changes that are non-functional in nature (refactoring), repair or redesign when there is nothing broken (repairing tests) -- consider rework.
 
 Start with tracking conflicts and events only, then *after* you get used to tracking conflicts, incorporate the other types.
 
