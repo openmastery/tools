@@ -7,6 +7,8 @@ The prototype version has two parts:
 * The IFM Intellij Plugin
 * The IFM Visualizer (vagrant) 
 
+The binary demo version of the tools is available from this repository.  If you decide to use the tools or want to take a look at the source code, please [join](http://openmastery.org/join) the Open Mastery Developer Network (free).  All Open Mastery source code is developed under the "Guild Open Source" license agreement, a copy-left license for collaborative guild development of all Idea Flow-related Intellectual Property.  
+
 ## The Intellij Plugin
 
 You can install the plugin by adding "http://ideaflow.org/updatePlugins.xml" as a [custom plugin repository](https://www.jetbrains.com/idea/help/custom-plugin-repositories-dialog.html) and then installing "ideaflow-plugin".
