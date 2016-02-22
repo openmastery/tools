@@ -1,13 +1,11 @@
 # Idea Flow Mapping Tools
 
-This is the prototype version of the Idea Flow Mapping software.  It's currently file based with heavy logic in the plugin, and will be moved to a thinned down version that hits a REST service hosted at demo.ideaflow.org, and you'll be able to use basic Idea Flow analytics tools with your team once you create a free account.  ETA for the rewrite is Jan 2016.
+This is the prototype version of the Idea Flow Mapping software.  It's currently file based with heavy logic in the plugin, and will be moved to a thinned down version that hits a REST service hosted at demo.ideaflow.org, and you'll be able to use basic Idea Flow analytics tools with your team once you create a free account.  ETA for the generally available version is May 2016.
 
 The prototype version has two parts:
 
 * The IFM Intellij Plugin
 * The IFM Visualizer (vagrant) 
-
-The binary demo version of the tools is available from this repository.  If you decide to use the tools or want to take a look at the source code, please [join](http://openmastery.org/join) the Open Mastery Developer Network (free).  All Open Mastery source code is developed under the "Guild Open Source" license agreement, a copy-left license for collaborative guild development of all Idea Flow-related Intellectual Property.  
 
 ## The Intellij Plugin
 
