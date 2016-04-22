@@ -1,6 +1,6 @@
 # Idea Flow Mapping Tools
 
-This is the prototype version of the Idea Flow Mapping software.  It's currently file based with heavy logic in the plugin, and will be moved to a thinned down version that hits a REST service hosted at demo.ideaflow.org, and you'll be able to use basic Idea Flow analytics tools with your team once you create a free account.  ETA for the generally available version is May 2016.
+This is the prototype version of the Idea Flow Mapping software.  It's currently file based with heavy logic in the plugin, and will be moved to a thinned down version that hits a REST service.  Check out openmastery.org for details about the tools and support community.  ETA for the general release version (open source) should be done around May 2016.  We're working on this right now.
 
 The prototype version has two parts:
 
