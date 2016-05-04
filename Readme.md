@@ -1,8 +1,10 @@
 # Idea Flow Mapping Tools
 
-This is the prototype version of the Idea Flow Mapping software.  It's currently file based with heavy logic in the plugin, and will be moved to a thinned down version that hits a REST service.  Check out openmastery.org for details about the tools and support community.  ETA for the general release version (open source) should be done around May 2016.  We're working on this right now.
+This is the original version of the Idea Flow Mapping software.  We're currently rewriting the tools to work as a thin client that works with a REST service, so the data collection is easy to port to a variety of editors.  Check out openmastery.org for details about the learning community we're building around Idea Flow.  ETA for the new version should be done around May/June 2016 to support Intellij, Eclipse, MS Visual Studio, and a mobile app.  
 
-The prototype version has two parts:
+For the time being, we've got an Intellij plugin, which is what all the original data collection described in the book, [Idea Flow](http://leanpub.com/ideaflow), used.  It works.  It's a bit clunky.  We collaborated as a team by checking all of our Idea Flow Maps into Git.
+
+This version has two parts:
 
 * The IFM Intellij Plugin
 * The IFM Visualizer (vagrant) 
