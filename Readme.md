@@ -57,7 +57,7 @@ Install [Vagrant](https://docs.vagrantup.com/v2/installation/index.html)
 
 Clone this repository
 
-    git clone git@github.com:ideaflow/tools.git
+    git clone git@github.com:openmastery/tools.git
 
 Start up the visualizer
 
